@@ -41,3 +41,8 @@ Having a basic knowledge of Linux is expected (if not please follow first the Li
 - Understanding output files
 - Ways to install applications on the cluster
 - How to perform parameter studies on the cluster
+
+## Reminder
+If you already asked for the vsc-account and created a key-pair, in order to speed up the vsc-account use during the practical exercise, please bring your private key with you (on your laptop or on your usb-stick) to be able to login. If you lost it or you do not remember the passphrase associated with it - we will assist you in creating a new key pair.
+
+If you do not have KU Leuven ID (e.g. u-, r- or s- number), please contact us (hpcinfo@kuleuven.be) so that we can create a temporary account for you, with which you will be able to login on computers used during hands-on sessions or use wifi on your own laptop.
