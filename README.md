@@ -27,7 +27,7 @@ Free of charge
 ## Prerequisites
 Having a basic knowledge of Linux is expected (if not please follow first the Linux-introduction course)
 	
-##Result
+## Result
 - What is Supercomputer, parallelism, VSC
 - Understanding basic HPC terms
 - Getting familiar with VSC infrastructure, KU Leuven HPC infrastructure in detail
