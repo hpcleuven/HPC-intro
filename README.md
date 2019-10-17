@@ -4,7 +4,7 @@ GitHub repository for participants of the "worker & atools" training. For inform
 
 ## What is it?
 
-1. [`HPC-intro.pdf`](HPC-into.pdf) - slides from the course,
+1. [`HPCintro.pdf`](HPCinto.pdf) - slides from the course,
 
 1. README.md - info about content,
 
