@@ -3,9 +3,6 @@
 ## Content
 This course will give a short practical summary of the basic things VSC users need to know to start working on the HPC cluster:
 - Overview of supercomputers
-- Concept of parallelism
-- History of supercomputers
-- HPC Glossary
 - What is the VSC
 - Description of the cluster
 - VSC at KU Leuven Infrastructure
