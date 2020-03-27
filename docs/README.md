@@ -53,7 +53,7 @@ Free of charge
 If you do not have KU Leuven ID (e.g. u-, r- or s- number), please contact us (hpcinfo@kuleuven.be) so that we can create a temporary account for you, with which you will be able to login on computers used during hands-on sessions or use wifi on your own laptop.
 
 ## Course Material
-The can access the [slides in PDF format](https://github.com/hpcleuven/HPC-intro/blob/master/HPCintro.pdf).
+You can access the [slides in PDF format](https://github.com/hpcleuven/HPC-intro/blob/master/HPCintro.pdf).
 
 The recordings of major part of the presentation is available via *Kaltura* and *My Media* space, and you can find the list of the videos in the table below
 
@@ -67,6 +67,7 @@ The recordings of major part of the presentation is available via *Kaltura* and 
 | Login nodes | Recommended | [11 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-05-Storage/1_i9kzs1p1) |
 | Connecting with PuTTY and terminal | Recommended | [11 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-07-PuTTY-terminal/1_hh23he9d) |
 | NX | Optional | [12 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-08-NX/1_o47ne0pm) |
+| File transfer | Optional | [6 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-09-FileTransfer/1_cf3zseab) |
 | Software | Recommended | [13 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-10-Software/1_ql6wq3rp) |
 | Start to compute | Recommended | [36 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-11-SubmitJobs/1_i9s1j78a) |
 | Start to compute - Demo | Optional | [15 min](https://kuleuven.mediaspace.kaltura.com/media/HPCInfo-11-SubmitJobs-demo/1_bmkbvvue) |
