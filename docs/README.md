@@ -60,7 +60,7 @@ The recordings of major part of the presentation is available via *Kaltura* and 
 | Section | Content | Video |
 |---------|---------|-------|
 | Outline | Recommended | TBD |
-| VSC | Recommended | TBD |
+| VSC | Recommended | [9 min](https://kuleuven.mediaspace.kaltura.com/media/VSC+-+intro/1_6s5ptc07) |
 | Tier-2 clusters | Recommended | [13 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-03-Clusters/1_vhiua0ij) |
 | Genius Cluster | Recommended | [3 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-04-Genius/1_p1ylayhz) |
 | Storage | Recommended | [19 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-05-Storage/1_i9kzs1p1) |
@@ -73,6 +73,7 @@ The recordings of major part of the presentation is available via *Kaltura* and 
 | Start to compute - Demo | Optional | [15 min](https://kuleuven.mediaspace.kaltura.com/media/HPCInfo-11-SubmitJobs-demo/1_bmkbvvue) |
 | GPU partition | Optional | [11 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-12-GPUs/1_f38ws9p8) |
 | BigMem, AMD and debugging queues | Optional | [16 min](https://kuleuven.mediaspace.kaltura.com/media/HPCInfo-13-BigMem-AMD-debugging/1_rqjaqvrb) |
+| Compute credits | Recommended | TBD |
 | Worker framework | Optional | TBD |
 | Epilogue | Recommended | [3 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-18-Epilogue/1_fy8dmbg3) |
 
