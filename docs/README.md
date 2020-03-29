@@ -64,7 +64,7 @@ The recordings of major part of the presentation is available via *Kaltura* and 
 | Tier-2 clusters | Recommended | [13 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-03-Clusters/1_vhiua0ij) |
 | Genius Cluster | Recommended | [3 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-04-Genius/1_p1ylayhz) |
 | Storage | Recommended | [19 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-05-Storage/1_i9kzs1p1) |
-| Login nodes | Recommended | [11 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-05-Storage/1_i9kzs1p1) |
+| Login nodes | Recommended | [11 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-06-Login-Nodes/1_09mlvlss) |
 | Connecting with PuTTY and terminal | Recommended | [11 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-07-PuTTY-terminal/1_hh23he9d) |
 | NX | Optional | [12 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-08-NX/1_o47ne0pm) |
 | File transfer | Optional | [6 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-09-FileTransfer/1_cf3zseab) |
