@@ -60,7 +60,7 @@ The recordings of major part of the presentation is available via *Kaltura* and 
 | Section | Content | Video |
 |---------|---------|-------|
 | Outline | Recommended | [8 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-01-Outline/1_s34yj5b1) |
-| VSC | Recommended | [9 min](https://kuleuven.mediaspace.kaltura.com/media/VSC+-+intro/1_6s5ptc07) |
+| VSC | Recommended | [9 min](https://kuleuven.mediaspace.kaltura.com/media/HPCintro-02-VSCintro/1_y7di10vy) |
 | Tier-2 clusters | Recommended | [13 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-03-Clusters/1_vhiua0ij) |
 | Genius Cluster | Recommended | [3 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-04-Genius/1_p1ylayhz) |
 | Storage | Recommended | [19 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-05-Storage/1_i9kzs1p1) |
