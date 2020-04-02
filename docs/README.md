@@ -52,9 +52,12 @@ Free of charge
 ## Non-KU Leuven Audience
 If you do not have KU Leuven ID (e.g. u-, r- or s- number), please contact us (hpcinfo@kuleuven.be) so that we can create a temporary account for you, with which you will be able to login on computers used during hands-on sessions or use wifi on your own laptop.
 
-## Course Material
+## Online Course Materials
+
+### Slides
 You can access the [slides in PDF format](https://github.com/hpcleuven/HPC-intro/blob/master/HPCintro.pdf).
 
+### Recordings
 The recordings of major part of the presentation is available via *Kaltura* and *My Media* space, and you can find the list of the videos in the table below
 
 | Section | Content | Video |
@@ -63,7 +66,7 @@ The recordings of major part of the presentation is available via *Kaltura* and 
 | VSC | Recommended | [10 min](https://kuleuven.mediaspace.kaltura.com/media/HPCintro-02-VSCintro/1_y7di10vy) |
 | Tier-2 clusters | Recommended | [13 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-03-Clusters/1_vhiua0ij) |
 | Genius Cluster | Recommended | [3 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-04-Genius/1_p1ylayhz) |
-| Storage | Recommended | [19 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-05-Storage/1_i9kzs1p1) |
+| Storage | Recommended | [21 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-05-Storage/1_z34wnczy) |
 | Login nodes | Recommended | [11 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-06-Login-Nodes/1_09mlvlss) |
 | Connecting with PuTTY and terminal | Recommended | [11 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-07-PuTTY-terminal/1_hh23he9d) |
 | NX | Optional | [12 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-08-NX/1_o47ne0pm) |
