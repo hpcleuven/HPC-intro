@@ -80,3 +80,7 @@ The recordings of major part of the presentation is available via *Kaltura* and 
 | Worker framework | Optional | [18 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-17-worker/1_pz537i1i) |
 | Epilogue | Recommended | [3 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-18-Epilogue/1_fy8dmbg3) |
 
+## Quick Survey
+
+We value your feedback on our HPC training, and would like to invite you to the following brief survey (< 5 min) by following [this URL.](https://kuleuven.eu.qualtrics.com/jfe/preview/SV_cLR4fXNoNgGhSfj?Q_SurveyVersionID=current&Q_CHL=preview)
+
