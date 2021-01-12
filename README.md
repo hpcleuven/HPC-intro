@@ -1,6 +1,6 @@
 # HPC introduction course 
 
-GitHub repository for participants of the "worker & atools" training. For information on the training, see the website [https://hpcleuven.github.io/HPC-intro/](https://hpcleuven.github.io/HPC-intro/)
+GitHub repository for participants of the "HPC intro" training. For information on the training, see the website [https://hpcleuven.github.io/HPC-intro/](https://hpcleuven.github.io/HPC-intro/)
 
 ## What is it?
 
