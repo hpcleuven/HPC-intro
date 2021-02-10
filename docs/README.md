@@ -25,7 +25,7 @@ This course will give a short practical summary of the basic things VSC users ne
 This course is primarily targeted at researchers that would like/need to perform large scale computations using HPC facility - current and potential VSC-users.
 
 ## Duration
-Total duration: 4 hours
+Total duration: 2 hours
 
 ## Price
 Free of charge
