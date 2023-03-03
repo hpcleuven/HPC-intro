@@ -4,7 +4,7 @@
 This course will give a short practical summary of the basic things VSC users need to know to start working on the HPC cluster:
 - What is the VSC
 - Tier-2 cluster
-- The Genius cluster
+- The Genius and wICE clusters
 - Storage
 - Login nodes
 - Connection setup (PuTTY, NX and terminal)
@@ -17,15 +17,14 @@ This course will give a short practical summary of the basic things VSC users ne
 - Dedicated hardware:
   - GPUs
   - Big memory nodes
-  - AMD nodes
 - Worker framework
 - Hand-on and demo practices
 	
-## Target
+## Target.
 This course is primarily targeted at researchers that would like/need to perform large scale computations using HPC facility - current and potential VSC-users.
 
 ## Duration
-Total duration: 2 hours
+Total duration: 4 hours
 
 ## Price
 Free of charge
@@ -41,7 +40,7 @@ Free of charge
 - Requesting VSC account
 - Getting familiar with VSC infrastructure, specially KU Leuven HPC infrastructure
 - Understanding basic HPC terms
-- Login to ThinKing or Genius
+- Login to Genius
 - Using software
 - Ways to install applications on the cluster
 - Submitting own jobs and editing scripts
