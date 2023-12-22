@@ -72,9 +72,9 @@ The recordings of major part of the presentation is available via *Kaltura* and 
 | Connecting with MobaXterm | Optional | [8 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-07-mobaxterm/1_duh45by0) |
 | NX | Optional | [12 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-08-NX/1_o47ne0pm) |
 | File transfer | Optional | [6 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-09-FileTransfer/1_cf3zseab) |
-| Software basics | Recommended | [4 min](https://kuleuven.mediaspace.kaltura.com/media/Software-basics/1_eeg0n8nu) |
-| Software search | Recommended | [5 min](https://kuleuven.mediaspace.kaltura.com/media/Software-modules-searching/1_o6d9zh8l) |
-| Software usage | Recommended | [XXXXX min](https://kuleuven.mediaspace.kaltura.com/media/Software-modules-searching/1_o6d9zh8l) |
+| Modules - basics | Recommended | [4 min](https://kuleuven.mediaspace.kaltura.com/media/Software-basics/1_eeg0n8nu) |
+| Modules - search | Recommended | [5 min](https://kuleuven.mediaspace.kaltura.com/media/Software-modules-searching/1_o6d9zh8l) |
+| Modules - usage | Recommended | [XXXXX min](https://kuleuven.mediaspace.kaltura.com/media/Software-modules-searching/1_o6d9zh8l) |
 | Start to compute | Recommended |  |
 | Start to compute - Demo | Optional |  |
 | GPU partition | Optional |  |
