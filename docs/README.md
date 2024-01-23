@@ -70,7 +70,7 @@ The recordings of major part of the presentation is available via *Kaltura* and 
 | Storage | Recommended | [4 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-05-Storage/1_z34wnczy) |
 | Login nodes | Recommended | [11 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-06-Login-Nodes/1_09mlvlss) |
 | Connecting with PuTTY and terminal | Recommended | [11 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-07-PuTTY-terminal/1_hh23he9d) |
-| Connecting with MobaXterm | Optional | [8 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-07-mobaxterm/1_duh45by0) |
+| Connecting with MobaXterm | Optional | [5 min](https://www.youtube.com/watch?v=dPtCmq1v_ME) |
 | NX | Optional | [12 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-08-NX/1_o47ne0pm) |
 | File transfer | Optional | [6 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-09-FileTransfer/1_cf3zseab) |
 | Software - basics | Recommended | [4 min](https://kuleuven.mediaspace.kaltura.com/media/Software-basics/1_eeg0n8nu) |
