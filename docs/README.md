@@ -75,7 +75,7 @@ The recordings of major part of the presentation is available via *Kaltura* and 
 | File transfer | Optional | [6 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-09-FileTransfer/1_cf3zseab) |
 | Software - basics | Recommended | [4 min](https://kuleuven.mediaspace.kaltura.com/media/Software-basics/1_eeg0n8nu) |
 | Modules - search | Recommended | [5 min](https://kuleuven.mediaspace.kaltura.com/media/Software-modules-searching/1_o6d9zh8l) |
-| Modules - usage | Recommended | [XXXXX min](https://kuleuven.mediaspace.kaltura.com/media/Software-modules-searching/1_o6d9zh8l) |
+| Modules - usage | Recommended | [5 min](https://kuleuven.mediaspace.kaltura.com/media/Software-modules-searching/1_o6d9zh8l) |
 | Start to compute | Recommended |  |
 | Start to compute - Demo | Optional |  |
 | GPU partition | Optional |  |
