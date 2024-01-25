@@ -67,6 +67,8 @@ The recordings of major part of the presentation is available via *Kaltura* and 
 | Tier-2 clusters | Recommended | [3 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-03-Clusters/1_vhiua0ij) |
 | Genius Cluster | Recommended | [3 min](https://kuleuven.mediaspace.kaltura.com/media/Tier2-Genius/1_6x09p763) |
 | wICE Cluster | Recommended | [5 min](https://kuleuven.mediaspace.kaltura.com/media/Tier2-wICE/1_lxct8cjq) |
+| wICE Interactive Partition | Optional | [4 min](https://kuleuven.mediaspace.kaltura.com/media/Jobs-Interactive-resources/1_ef2phjkm) |
+|||[5 min](https://kuleuven.mediaspace.kaltura.com/media/Jobs-Interactive-OnDemand/1_tnq617ae)|
 | Storage | Recommended | [4 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-05-Storage/1_z34wnczy) |
 | Login nodes | Recommended | [11 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-06-Login-Nodes/1_09mlvlss) |
 | Connecting with PuTTY and terminal | Recommended | [11 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-07-PuTTY-terminal/1_hh23he9d) |
