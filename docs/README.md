@@ -81,7 +81,7 @@ The recordings of major part of the presentation is available via *Kaltura* and 
 | Start to compute | Recommended |  |
 | Start to compute - Demo | Optional |  |
 | GPU partition | Optional |  |
-| BigMem, AMD and debugging queues | Optional |  |
+| bigmem partition | Optional | [8 min](https://kuleuven.mediaspace.kaltura.com/media/Jobs-BigMem/1_yqd0a4ni) |
 | Compute credits | Recommended | [12 min](https://kuleuven.mediaspace.kaltura.com/media/HPCintro-14-credits/1_4c4u01i8) |
 | Worker framework | Optional | [18 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-17-worker/1_pz537i1i) |
 | Epilogue | Recommended | [3 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-18-Epilogue/1_fy8dmbg3) |
