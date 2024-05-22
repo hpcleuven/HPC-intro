@@ -80,7 +80,7 @@ The recordings of major part of the presentation is available via *Kaltura* and 
 | Modules - usage | Recommended | [5 min](https://kuleuven.mediaspace.kaltura.com/media/Software-modules-searching/1_o6d9zh8l) |
 | Start to compute | Recommended |  |
 | Start to compute - Demo | Optional |  |
-| GPU partition | Optional |  |
+| GPU partition | Optional | [9 min](https://kuleuven.mediaspace.kaltura.com/media/Jobs-GPU/1_np3oqekv) |
 | bigmem partition | Optional | [8 min](https://kuleuven.mediaspace.kaltura.com/media/Jobs-BigMem/1_yqd0a4ni) |
 | Compute credits | Recommended | [12 min](https://kuleuven.mediaspace.kaltura.com/media/HPCintro-14-credits/1_4c4u01i8) |
 | Worker framework | Optional | [18 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-17-worker/1_pz537i1i) |
