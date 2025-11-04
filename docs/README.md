@@ -1,11 +1,11 @@
 # HPC introduction course 
 
 ## Content
-This course will give a short practical summary of the basic things VSC users need to know to start working on the HPC cluster:
+This course summarizes the basics that VSC users need to know to start computing on the VSC HPC infrastructure:
+
 - What is the VSC
-- Tier-2 cluster
-- The Genius cluster
-- Storage
+- Tier-2 clusters Genius and wICE
+- Storage locations
 - Login nodes
 - Connection setup (PuTTY, NX and terminal)
 - Software environment
@@ -14,48 +14,44 @@ This course will give a short practical summary of the basic things VSC users ne
   - batch jobs
   - inspect errors and output
   - managing jobs
-- Dedicated hardware:
-  - GPUs
-  - Big memory nodes
-  - AMD nodes
-- Worker framework
-- Hand-on and demo practices
-	
-## Target
-This course is primarily targeted at researchers that would like/need to perform large scale computations using HPC facility - current and potential VSC-users.
+- Additional tools such as Apptainer and atools
+- Hands-on and demo practices
+
+## Target audience
+This course is primarily targeted at researchers who would like to start using the VSC compute infrastructure,
+in particular the HPC clusters hosted at KU Leuven.
 
 ## Duration
 Total duration: 4 hours
 
 ## Price
 Free of charge
-	
+
 ## Prerequisites
 - Active VSC account
-- SSH key pairs (public and private) which you used to request your VSC account
-- Remembering the passphrase that you used to generate your SSH keys
-- Basic knowledge of Linux is expected (if not please follow the Linux-introduction course)
+- Basic knowledge of Linux
+  (please follow the Linux introduction course if needed)
 
 ## Result
-- Understanding VSC user rights
 - Requesting VSC account
-- Getting familiar with VSC infrastructure, specially KU Leuven HPC infrastructure
-- Understanding basic HPC terms
-- Login to ThinKing or Genius
-- Using software
-- Ways to install applications on the cluster
-- Submitting own jobs and editing scripts
-- Checking job status, deleting unwanted jobs
-- Understanding output files
-- How to perform parameter studies on the cluster
+- Getting familiar with VSC infrastructure, in particular the parts hosted at KU Leuven
+- Understanding basic HPC concepts
+- Connecting to a login node
+- Using centrally installed software
+- Ways to install your own applications
+- Submitting jobs and editing jobscripts
+- Checking the status of a job and cancelling unwanted jobs
+- Understanding job output files
+- Handling high-throughput computing workloads
 
-## Non-KU Leuven Audience
-If you do not have KU Leuven ID (e.g. u-, r- or s- number), please contact us (hpcinfo@kuleuven.be) so that we can create a temporary account for you, with which you will be able to login on computers used during hands-on sessions or use wifi on your own laptop.
+## Participants not affiliated with KU Leuven
+If you do not have KU Leuven ID (e.g. u-, r- or s- number), please contact us at hpcinfo@kuleuven.be.
+If you cannot use Eduroam, we can give you temporary access to another wireless network.
 
-## Online Course Materials
+## Course material
 
 ### Slides
-You can access the [slides in PDF format](https://github.com/hpcleuven/HPC-intro/blob/master/HPCintro.pdf).
+You can access the slides in PDF format [here](https://github.com/hpcleuven/HPC-intro/blob/master/HPCintro.pdf).
 
 ### Recordings
 The recordings of major part of the presentation is available via *Kaltura* and *My Media* space, and you can find the list of the videos in the table below
@@ -85,8 +81,4 @@ The recordings of major part of the presentation is available via *Kaltura* and 
 | Compute credits | Recommended | [12 min](https://kuleuven.mediaspace.kaltura.com/media/HPCintro-14-credits/1_4c4u01i8) |
 | Worker framework | Optional | [18 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-17-worker/1_pz537i1i) |
 | Epilogue | Recommended | [3 min](https://kuleuven.mediaspace.kaltura.com/media/HPCIntro-18-Epilogue/1_fy8dmbg3) |
-
-## Quick Survey
-
-We value your feedback on our HPC training, and would like to invite you to the following brief survey (< 5 min) by following [this URL.](https://kuleuven.eu.qualtrics.com/jfe/preview/SV_cLR4fXNoNgGhSfj?Q_SurveyVersionID=current&Q_CHL=preview)
 
