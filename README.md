@@ -2,6 +2,8 @@
 
 GitHub repository for participants of the "HPC intro" training. For information on the training, see the website [https://hpcleuven.github.io/HPC-intro/](https://hpcleuven.github.io/HPC-intro/)
 
+Examples of jobscripts are located in the `/apps/leuven/training/HPC_intro` directory on the cluster.
+
 ## What is it?
 
 1. [`HPCintro.pdf`](HPCintro.pdf) - slides from the course,
